@@ -52,7 +52,3 @@ The implementation was graded based on the following:
 ## Acknowledgments
 
 This project was part of the **COMP0009 Logic course** at UCL, completed in November 2024.
-
----
-
-Feel free to modify this template to better fit your style or add any additional project-specific details!
